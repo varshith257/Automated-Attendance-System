@@ -3,6 +3,7 @@
 This project aims to implement automated attendance system which combines the RFID verification and face recognition . The proposed system will have a camera to capture the faces of people and a RFID reader to check the ID numbers. If both of the verifying processes return a “Pass” signal, then a successful entrance signal is generated and attendance is marked. The conceptual diagram of the automated attendance system is shown below :
 
 ![RFID](https://user-images.githubusercontent.com/117595548/218154393-04223533-e7a2-436a-8ca9-c2b3bc4895ab.png)
+
 AUTOMATED ATTENDANCE SYSTEM OVERVIEW
 
 The system contains three main components :
