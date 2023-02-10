@@ -17,5 +17,4 @@ In the first step, an RFID reader reads the user's RFID tag to obtain the user I
 
 In the next step, the computer searches the received user number in its database. Once the ID number is validated, the computer activates the camera and captures the user's face. The user's image is then sent back to the computer for face recognition and facial recognition via the USB interface.
 
-This user's face is carefully analyzed by an algorithm called 'EigenFaces' using the built-in OpenCV library. The verification process is completed by confirming the User Identity results on
-general useer interface.
+This user's face is carefully analyzed by an algorithm called 'EigenFaces' using the built-in OpenCV library. The verification process is completed by confirming the User Identity results on general useer interface in website.
