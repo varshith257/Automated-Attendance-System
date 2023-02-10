@@ -11,6 +11,8 @@ The system contains three main components :
 2) RFID Reader
 3) RFID Card
 
+DEMO VIDEO :   https://drive.google.com/file/d/1Y9OzAEor712B4RYKj5sehHJy7YYeMEmj/view?usp=share_link
+
 The main goal is to build a recognition system that uses an RFID reader to verify a user's ID number and a biometric system that uses an HD camera to recognize the user's face.
 
 In the first step, an RFID reader reads the user's RFID tag to obtain the user ID. These ID numbers are converted to binary data and sent to the computer via the RS232 interface.
